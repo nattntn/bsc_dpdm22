@@ -12,6 +12,9 @@
 
 https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_percentage_error.html?fbclid=IwAR35BB6XKeHluJcbma0TUPOyi8siM5-v9xbJxLWAjlFP4ViULZlSMXgwD34
 
+![image](https://user-images.githubusercontent.com/108257658/207902232-3f6452d4-97ac-48e3-9722-594f81f3c4d6.png)
+
+
 $Example$
 >>> from sklearn.metrics import mean_absolute_percentage_error
 
