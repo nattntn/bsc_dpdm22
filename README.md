@@ -8,6 +8,7 @@
 - Quiz(เดี่ยว ถามในห้อง)      10%
 
 # Mean absolute percentage error (MAPE)
+-ค่าสัมบูรณ์ของร้อยละของความคลาดเคลื่อนเฉลี่ย: เป็นการวัดความถูกต้องโดยคำนวณเปอร์เซ็นต์ความผิดพลาดในการพยากรณ์ จึงทำให้ค่านี้ไม่มีหน่วย เหมาะกับการเปรียบเทียบอนุกรมเวลาหลายชุด เมื่อใช้เทคนิคการพยากรณ์เดียวกัน// ยิ่งค่าน้อยยิ่งดี
 https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_percentage_error.html?fbclid=IwAR35BB6XKeHluJcbma0TUPOyi8siM5-v9xbJxLWAjlFP4ViULZlSMXgwD34
 
 $Example$
