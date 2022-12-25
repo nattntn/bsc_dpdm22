@@ -23,3 +23,8 @@ $Example$
 >>> y_pred = [2.5, 0.0, 2, 8]
 
 >>> mean_absolute_percentage_error(y_true, y_pred)
+
+# The Data Visualisation Catalogue
+https://datavizcatalogue.com/
+
+โทนสี: https://colorhunt.co/
