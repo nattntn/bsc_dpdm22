@@ -28,3 +28,4 @@ $Example$
 https://datavizcatalogue.com/
 
 โทนสี: https://colorhunt.co/
+cmap color: https://matplotlib.org/stable/tutorials/colors/colormaps.html
