@@ -29,3 +29,7 @@ https://datavizcatalogue.com/
 
 โทนสี: https://colorhunt.co/
 cmap color: https://matplotlib.org/stable/tutorials/colors/colormaps.html
+
+# Normalization
+https://scikit-learn.org/stable/modules/preprocessing.html
+เราจะทำการ Normalization ข้อมูลที่เป็นตัวเลขเพื่อปรับมาตรฐานของข้อมูลให้อยู่ในระดับเดียวกัน (มีสเกลเดียวกัน) เพื่อที่ตัวแปรแต่ละตัวแปรจะได้มีน้ำหนักเท่า ๆ กัน Z(0,1)
