@@ -34,3 +34,14 @@ cmap color: https://matplotlib.org/stable/tutorials/colors/colormaps.html
 https://scikit-learn.org/stable/modules/preprocessing.html
 
 เราจะทำการ Normalization ข้อมูลที่เป็นตัวเลขเพื่อปรับมาตรฐานของข้อมูลให้อยู่ในระดับเดียวกัน (มีสเกลเดียวกัน) เพื่อที่ตัวแปรแต่ละตัวแปรจะได้มีน้ำหนักเท่า ๆ กัน Z(0,1)
+
+# Decision Tree
+![image](https://user-images.githubusercontent.com/108257658/219439006-b4eeb69d-9a73-4aff-8d13-3ffc0716ea53.png)
+## Concept ในการสร้าง 
+![image](https://user-images.githubusercontent.com/108257658/219439201-ad570e00-95bb-4d71-b3fb-83d4b4886f7d.png)
+## วิธีการสร้าง
+![image](https://user-images.githubusercontent.com/108257658/219439581-d84e9adb-1821-47ef-b0b1-c01ed548db92.png)
+ตัวอย่าง:HW5_Decision Tree.pdf
+
+
+
