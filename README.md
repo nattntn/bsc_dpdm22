@@ -41,7 +41,7 @@ https://scikit-learn.org/stable/modules/preprocessing.html
 ![image](https://user-images.githubusercontent.com/108257658/219439201-ad570e00-95bb-4d71-b3fb-83d4b4886f7d.png)
 ## วิธีการสร้าง
 ![image](https://user-images.githubusercontent.com/108257658/219439581-d84e9adb-1821-47ef-b0b1-c01ed548db92.png)
-ตัวอย่าง:HW5_Decision Tree.pdf
+ตัวอย่าง:https://github.com/natthanich/bsc_dpdm22/blob/692bee60a72fe20f003795b0a7f4d37adbda15c1/HW5_Decision%20Tree.pdf
 
 
 
