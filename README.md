@@ -7,6 +7,12 @@
 - Homework(แบ่งกลุ่มใหม่ทุกครั้ง)  20% 
 - Quiz(เดี่ยว ถามในห้อง)      10%
 
+#FINAL PROJECT
+- 8.นายนราวิชญ์ ประทานทรัพย์
+- 9.นางสาวภรณกนก ภูผาธรรม
+- 18.นางสาวณัฐนิช หิรัญชวโรจน์
+[COLAP](https://github.com/natthanich/bsc_dpdm22/blob/main/storke_project.ipynb)
+[PRESENTATION](https://github.com/natthanich/bsc_dpdm22/blob/main/Final-Project.pdf)
 # Mean absolute percentage error (MAPE)
 ![image](https://user-images.githubusercontent.com/108257658/219445247-5af7b5b0-a488-4a1c-9db5-4262b35a19d6.png)
 
